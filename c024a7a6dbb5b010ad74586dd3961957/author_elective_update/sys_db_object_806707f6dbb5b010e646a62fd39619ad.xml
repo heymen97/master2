@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>TVHIPER_EMPNO</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_tvhiper_empno</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>kwmyung</sys_created_by>
+        <sys_created_on>2021-08-10 03:13:59</sys_created_on>
+        <sys_id>806707f6dbb5b010e646a62fd39619ad</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>TVHIPER_EMPNO</sys_name>
+        <sys_package display_value="HR DATA" source="c024a7a6dbb5b010ad74586dd3961957">c024a7a6dbb5b010ad74586dd3961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR DATA">c024a7a6dbb5b010ad74586dd3961957</sys_scope>
+        <sys_update_name>sys_db_object_806707f6dbb5b010e646a62fd39619ad</sys_update_name>
+        <sys_updated_by>kwmyung</sys_updated_by>
+        <sys_updated_on>2021-08-10 04:44:01</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="hr_manager" name="hr_manager">7b34e7a6dbb5b010ad74586dd39619bf</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR DATA">c024a7a6dbb5b010ad74586dd3961957</application>
+        <file_path/>
+        <instance_id>343668541ba0b410e84d2f8dee4bcbe5</instance_id>
+        <instance_name>skdiscoverydev</instance_name>
+        <name>sys_db_object_806707f6dbb5b010e646a62fd39619ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>TVHIPER_EMPNO</label><live_feed_enabled>false</live_feed_enabled><name>u_tvhiper_empno</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>kwmyung</sys_created_by><sys_created_on>2021-08-10 03:13:59</sys_created_on><sys_id>806707f6dbb5b010e646a62fd39619ad</sys_id><sys_mod_count>2</sys_mod_count><sys_name>TVHIPER_EMPNO</sys_name><sys_package display_value="HR DATA" source="c024a7a6dbb5b010ad74586dd3961957">c024a7a6dbb5b010ad74586dd3961957</sys_package><sys_policy/><sys_scope display_value="HR DATA">c024a7a6dbb5b010ad74586dd3961957</sys_scope><sys_update_name>sys_db_object_806707f6dbb5b010e646a62fd39619ad</sys_update_name><sys_updated_by>kwmyung</sys_updated_by><sys_updated_on>2021-08-10 04:44:01</sys_updated_on><update_access>true</update_access><user_role display_value="hr_manager" name="hr_manager">7b34e7a6dbb5b010ad74586dd39619bf</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>2017242273</payload_hash>
+        <record_name>TVHIPER_EMPNO</record_name>
+        <reverted_from/>
+        <source>10f3e3a6dbb5b010ad74586dd39619ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kwmyung</sys_created_by>
+        <sys_created_on>2021-08-10 04:44:01</sys_created_on>
+        <sys_id>bf00eb76dbf5b010e646a62fd3961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b2e5fe33c0000001</sys_recorded_at>
+        <sys_updated_by>kwmyung</sys_updated_by>
+        <sys_updated_on>2021-08-10 04:44:01</sys_updated_on>
+        <type>Table</type>
+        <update_guid>f700eb76b6f5b010ed8c2d04dd8eea91</update_guid>
+        <update_guid_history>f700eb76b6f5b010ed8c2d04dd8eea91:2017242273,b41993723af5b010770ebee6b2499b59:-335936884,b41993723af5b010770ebee6b2499b59:-335936884,9d7b4b7adeb5b01011cfa6c2b82a69de:-74765602</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kwmyung</sys_created_by>
+        <sys_created_on>2021-08-10 04:45:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>6565ccdd60f346809a199336a1244441</sys_id>
+        <sys_metadata>806707f6dbb5b010e646a62fd39619ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TVHIPER_EMPNO</sys_name>
+        <sys_package display_value="HR DATA" source="c024a7a6dbb5b010ad74586dd3961957">c024a7a6dbb5b010ad74586dd3961957</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR DATA">c024a7a6dbb5b010ad74586dd3961957</sys_scope>
+        <sys_scope_delete display_value="">486c5e69c0b4413291030b3720404091</sys_scope_delete>
+        <sys_update_name>sys_db_object_806707f6dbb5b010e646a62fd39619ad</sys_update_name>
+        <sys_update_version display_value="sys_db_object_806707f6dbb5b010e646a62fd39619ad">bf00eb76dbf5b010e646a62fd3961991</sys_update_version>
+        <sys_updated_by>kwmyung</sys_updated_by>
+        <sys_updated_on>2021-08-10 04:45:48</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="HR DATA">c024a7a6dbb5b010ad74586dd3961957</claim_owner_scope>
+        <claim_timestamp>17b329c97b00000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_806707f6dbb5b010e646a62fd39619ad</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>HR DATA</previous_claim_name>
+        <previous_claim_scope>c024a7a6dbb5b010ad74586dd3961957</previous_claim_scope>
+        <sys_created_by>kwmyung</sys_created_by>
+        <sys_created_on>2021-08-11 00:28:48</sys_created_on>
+        <sys_id>833fab8fdb31f010e646a62fd39619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kwmyung</sys_updated_by>
+        <sys_updated_on>2021-08-11 00:28:48</sys_updated_on>
+    </sys_claim>
+</record_update>

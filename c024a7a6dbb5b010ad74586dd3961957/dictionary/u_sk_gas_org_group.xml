@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SK_GAS_ORG_GROUP" max_length="40" name="u_sk_gas_org_group" sizeclass="127" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="그룹(조직)코드" max_length="100" name="u_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="만든시간" max_length="40" name="u_excreate_dt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AD표시이름" max_length="100" name="u_ex_addisplayname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AD SAMACCNAME" max_length="100" name="u_ex_adsamname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="회사코드" max_length="40" name="u_ex_complanycode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="조직한자이름" max_length="100" name="u_ex_deptcname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="조직코드" max_length="100" name="u_ex_deptcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="조직 Depth" max_length="100" name="u_ex_deptdepth" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="이메일" max_length="100" name="u_ex_deptemail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="조직영어이름" max_length="100" name="u_ex_deptename" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="조직도 표시순서" max_length="40" name="u_ex_displayorder" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="조직도표시여부" max_length="40" name="u_ex_displayyn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="그룹 IM ORG_ID" max_length="100" name="u_ex_im_org_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="부서장" max_length="100" name="u_ex_manager_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="수정시간" max_length="40" name="u_ex_modify_dt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="상위조직코드" max_length="100" name="u_ex_parentdepcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="사용여부" max_length="40" name="u_ex_useyn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="그룹이름" max_length="100" name="u_name" type="string"/>
+        <element label="그룹순서" max_length="40" name="u_seq" type="integer"/>
+    </element>
+</database>
